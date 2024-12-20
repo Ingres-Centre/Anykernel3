@@ -10,10 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
-device.name3=xun
-supported.versions=13 - 14.1
+device.name1=ingres
+device.name2=cupid
+device.name3=zeus
+device.name4=marble
+supported.versions=13 - 14 - 15 - 14.2 - 14.1 - 15.1
 '; } # end properties
 
 # shell variables
